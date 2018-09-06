@@ -13,16 +13,16 @@ For use clojure on windows, Leinning will be used.
 
 
 **CREATE NEW PROJECT**
-```
+```clojure
 lein new app [Project_NAME]
 ```
 
 **RUN PROJECT**
 1. Download deps
-```
+```clojure
 lein deps
 ```
 2. Run project
-```
+```clojure
 lein run
 ```
