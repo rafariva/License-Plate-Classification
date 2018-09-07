@@ -8,8 +8,14 @@ For use clojure on windows, Leinning will be used.
 1. Download [lein.bat](https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein.bat) and save in some PATH
 2. Add this PATH in the Environment Variables
 
+![Environment Variable](/images/variableEntorno.png)
 
 
+**TEST CLOJURE**
+```
+lein repl
+```
+![HelloWorld](/images/clojureHelloWorld.png)
 
 
 **CREATE NEW PROJECT**
