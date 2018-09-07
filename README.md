@@ -1,22 +1,22 @@
-**RUN PROJECT**
+# RUN PROJECT
 
 
-# Get deps
+**Get deps**
 ```
 lein deps
 ```
 
-# Get data
+**Get data**
 ```
 lein run -m license-plate.getdata
 ```
 
-# Training
+**Training**
 ```
 lein run -m licence-plate.training
 ```
 
-# Validation
+**Validation**
 ```
 lein run -m license-plate.validate
 ```
