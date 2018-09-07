@@ -36,11 +36,15 @@ lein run
 
 
 ---------------------
-** UBUNTU **
----JAVA---
+**UBUNTU**
+JAVA
+```
 yum install java-1.7.0-openjdk
+```
 
----CLOJURE---
+CLOJURE
+```
 curl -O https://download.clojure.org/install/linux-install-1.9.0.381.sh
 chmod +x linux-install-1.9.0.381.sh
 sudo ./linux-install-1.9.0.381.sh
+```
