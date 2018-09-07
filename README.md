@@ -1,5 +1,10 @@
 # RUN PROJECT
 
+1. Download License_plate Folder.
+2. Get deps, get data
+3. Run training
+4. Validate
+
 
 **Get deps**
 ```
