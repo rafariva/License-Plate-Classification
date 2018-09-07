@@ -1,4 +1,31 @@
-# clojure-classification
+**RUN PROJECT**
+
+
+# Get deps
+```
+lein deps
+```
+
+# Get data
+```
+lein run -m license-plate.getdata
+```
+
+# Training
+```
+lein run -m licence-plate.training
+```
+
+# Validation
+```
+lein run -m license-plate.validate
+```
+
+
+------------------------------------------------
+
+
+# clojure-installation
 Using CNN in clojure for classificate license plate
 
 **INSTALLING CLOJURE** [Leiningen Page](https://leiningen.org/)
